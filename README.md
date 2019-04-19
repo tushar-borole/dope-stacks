@@ -2,7 +2,7 @@
 # dope-stacks
 This repo contain awsome open source stack by companies
 
-## facebook [↗]([[https://www.facebook.com/](https://www.facebook.com/))
+## Facebook [↗](https://facebook.com)
 
  - [React](https://reactjs.org/) : React makes it painless to create
    interactive UIs.
