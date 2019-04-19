@@ -10,6 +10,7 @@ This repo contain awsome open source stack by companies
    from the ground up for interactive analytics and approaches the speed
    of commercial data warehouses while scaling to the size of
    organizations like Facebook.
+   [PyTorch](https://pytorch.org/) : Deep learning Framework.
 
 
 ## Airbnb [↗](https://airbnb.com)
