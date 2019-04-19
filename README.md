@@ -9,7 +9,7 @@ This repo contain awsome open source stack by companies
  - [PrestoDB](https://prestodb.io/)  Presto was designed and written
    from the ground up for interactive analytics and approaches the speed
    of commercial data warehouses while scaling to the size of
-   organizations like Facebook
+   organizations like Facebook.
 
 
 ## Airbnb [↗](https://airbnb.com)
