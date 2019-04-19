@@ -2,7 +2,7 @@
 # dope-stacks
 This repo contain awsome open source stack by companies
 
-## facebook[↗]([[https://www.facebook.com/](https://www.facebook.com/))
+## facebook [↗]([[https://www.facebook.com/](https://www.facebook.com/))
 
  - [React](https://reactjs.org/) : React makes it painless to create
    interactive UIs.
@@ -12,7 +12,7 @@ This repo contain awsome open source stack by companies
    organizations like Facebook
 
 
-## airbnb [↗]([https://www.airbnb.com](https://www.airbnb.com/))
+## Airbnb [↗](https://airbnb.com)
 
  - [Airpal](https://airbnb.io/airpal/) : a web-based query execution
    tool built on top of Facebook's  [PrestoDB](https://prestodb.io/).
