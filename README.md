@@ -23,3 +23,9 @@ This repo contain awsome open source stack by companies
    utility for React that makes it easier to test your React Components'
    output.
 
+## Uber [↗](https://uber.com)
+
+ - [Peloton](https://eng.uber.com/peloton/) : a unified scheduler
+   designed to manage resources across distinct workloads, combining our
+   separate clusters into a unified one
+
