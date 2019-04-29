@@ -1,6 +1,12 @@
 
 # dope-stacks
-This repo contain awsome open source stack by companies
+This repo contain awsome open source stack by companies and foundation
+
+## Apache [↗](https://apache.org)
+
+ - [Apache Beam](https://beam.apache.org/) : Implement batch and
+   streaming data processing jobs that run on any execution engine.
+   [Apache Flink](https://flink.apache.org/) : Flink has been designed to run in _all common cluster environments_, perform computations at _in-memory speed_ and at _any scale_
 
 ## Facebook [↗](https://facebook.com)
 
