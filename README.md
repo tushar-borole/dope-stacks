@@ -8,7 +8,9 @@ This repo contain awsome open source stack by companies and foundation
    streaming data processing jobs that run on any execution engine.
  - [Apache Flink](https://flink.apache.org/) : Flink has been designed
    to run in _all common cluster environments_, perform computations at
-   _in-memory speed_ and at _any scale_
+   _in-memory speed_ and at _any scale_  
+ - [Apache Druid](http://druid.io/) : Druid is an is a high performance
+   real-time analytics database
 
 ## Facebook [↗](https://facebook.com)
 
@@ -30,10 +32,19 @@ This repo contain awsome open source stack by companies and foundation
  - [Enzyme](https://airbnb.io/enzyme/) : Enzyme is a JavaScript Testing
    utility for React that makes it easier to test your React Components'
    output.
+ - [Superset](https://airbnb.io/projects/superset/) : Superset provides
+   intuitive interface to explore and visualize datasets, and create
+   interactive dashboards.
 
 ## Uber [↗](https://uber.com)
 
  - [Peloton](https://eng.uber.com/peloton/) : a unified scheduler
    designed to manage resources across distinct workloads, combining our
    separate clusters into a unified one
+
+## Linkedin [↗](https://linkedin.com)
+
+ - [Pinot](https://pinot.apache.org/) : Pinot is a realtime distributed
+   OLAP datastore, which is used at LinkedIn to deliver scalable real
+   time analytics with low latency.
 
