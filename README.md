@@ -48,3 +48,8 @@ This repo contain awsome open source stack by companies and foundation
    OLAP datastore, which is used at LinkedIn to deliver scalable real
    time analytics with low latency.
 
+## Google [↗](https://google.com)
+
+ - [Tensor Flow](https://www.tensorflow.org/) : TensorFlow is an
+   end-to-end open source platform for machine learning
+
