@@ -1,5 +1,7 @@
+<p align="center">
+  <img width="500" src="https://raw.githubusercontent.com/tushariscoolster/dope-stacks/master/logo.png">
+</p>
 
-![Dopee Stacks](https://raw.githubusercontent.com/tushariscoolster/dope-stacks/master/logo.png)
 # dope-stacks
 This repo contain awsome open source stack by companies and foundation
 
