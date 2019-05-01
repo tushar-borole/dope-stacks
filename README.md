@@ -47,6 +47,8 @@ This repo contain awsome open source stack by companies and foundation
  - [Pinot](https://pinot.apache.org/) : Pinot is a realtime distributed
    OLAP datastore, which is used at LinkedIn to deliver scalable real
    time analytics with low latency.
+ - [Kafka](https://kafka.apache.org/) : Kafka is  _a distributed
+   streaming platform_
 
 ## Google [↗](https://google.com)
 
