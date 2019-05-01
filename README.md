@@ -1,8 +1,5 @@
 
-<p align="center">
 ![Dopee Stacks](https://raw.githubusercontent.com/tushariscoolster/dope-stacks/master/logo.png)
-</p>
-
 # dope-stacks
 This repo contain awsome open source stack by companies and foundation
 
