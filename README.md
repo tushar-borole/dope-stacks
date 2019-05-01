@@ -1,3 +1,6 @@
+<div align="center">
+<img alt="Dope Stacks" width="680px" src="src/logo.png">
+</div>
 
 # dope-stacks
 This repo contain awsome open source stack by companies and foundation
