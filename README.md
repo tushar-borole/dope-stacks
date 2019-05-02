@@ -58,7 +58,13 @@ This repo contain awsome open source stack by companies and foundation
  - [Tensor Flow](https://www.tensorflow.org/) : TensorFlow is an
    end-to-end open source platform for machine learning
 
+## SoundCloud [↗](https://soundcloud.com)
 
+ - [Prometheus](https://prometheus.io/) : It is used to record real-time
+   metrics in a [time series
+   database](https://en.wikipedia.org/wiki/Time_series_database "Time
+   series database") (allowing for high dimensionality) built using a
+   HTTP pull model, with flexible queries and real-time alerting.
 
 ## Contributing
 
