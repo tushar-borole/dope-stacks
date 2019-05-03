@@ -44,6 +44,8 @@ This repo contain awsome open source stack by companies and foundation
  - [Peloton](https://eng.uber.com/peloton/) : a unified scheduler
    designed to manage resources across distinct workloads, combining our
    separate clusters into a unified one
+ - [M3 db](https://m3db.io/) : ## The fully open source metrics platform
+   built on M3DB, a distributed timeseries database
 
 ## Linkedin [↗](https://linkedin.com)
 
