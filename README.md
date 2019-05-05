@@ -60,6 +60,9 @@ This repo contain awsome open source stack by companies and foundation
  - [Tensor Flow](https://www.tensorflow.org/) : TensorFlow is an
    end-to-end open source platform for machine learning
 
+## IBM [↗](https://ibm.com)
+
+- [Openwisk](https://openwhisk.apache.org/) : Apache OpenWhisk (Incubating) is an open source, distributed Serverless platform that executes functions (fx) in response to events at any scale.
 ## SoundCloud [↗](https://soundcloud.com)
 
  - [Prometheus](https://prometheus.io/) : It is used to record real-time
