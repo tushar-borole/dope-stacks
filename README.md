@@ -14,6 +14,7 @@ This repo contain awsome open source stack by companies and foundation
    _in-memory speed_ and at _any scale_  
  - [Apache Druid](http://druid.io/) : Druid is an is a high performance
    real-time analytics database
+   [Mesos](http://mesos.apache.org/) : Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 
 ## Facebook [↗](https://facebook.com)
 
@@ -74,6 +75,7 @@ This repo contain awsome open source stack by companies and foundation
 ## Others
 
 - [Openfass](https://www.openfaas.com/) :  OpenFaaS® makes it simple to turn anything into a serverless function that runs on Linux or Windows through Docker Swarm or Kubernetes. 
+- [Vuejs](https://vuejs.org/) : Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
 
 ## Contributing
 
