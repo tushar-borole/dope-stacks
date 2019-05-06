@@ -60,6 +60,13 @@ This repo contain awsome open source stack by companies and foundation
 
  - [Tensor Flow](https://www.tensorflow.org/) : TensorFlow is an
    end-to-end open source platform for machine learning
+   
+## Netflix [↗](https://netflix.com)
+ - [Spinnaker](https://www.spinnaker.io/) : Spinnaker is an open source,
+   multi-cloud continuous delivery platform for releasing software
+   changes with high velocity and confidence.
+ - [Conductor](https://netflix.github.io/conductor/) : Conductor is a   
+   microservices orchestration engine
 
 ## IBM [↗](https://ibm.com)
 
