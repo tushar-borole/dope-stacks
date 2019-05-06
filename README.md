@@ -63,9 +63,7 @@ This repo contain awsome open source stack by companies and foundation
    
 ## Netflix [↗](https://netflix.com)
 
- - [Spinnaker](https://www.spinnaker.io/) : Spinnaker is an open source,
-   multi-cloud continuous delivery platform for releasing software
-   changes with high velocity and confidence.
+ - [Spinnaker](https://www.spinnaker.io/) : Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
  - [Conductor](https://netflix.github.io/conductor/) : Conductor is a microservices orchestration engine
 
 ## IBM [↗](https://ibm.com)
