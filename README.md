@@ -62,6 +62,7 @@ This repo contain awsome open source stack by companies and foundation
    end-to-end open source platform for machine learning
    
 ## Netflix [↗](https://netflix.com)
+
  - [Spinnaker](https://www.spinnaker.io/) : Spinnaker is an open source,
    multi-cloud continuous delivery platform for releasing software
    changes with high velocity and confidence.
