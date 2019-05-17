@@ -24,7 +24,8 @@ This repo contain awsome open source stack by companies and foundation
    from the ground up for interactive analytics and approaches the speed
    of commercial data warehouses while scaling to the size of
    organizations like Facebook.
-   [PyTorch](https://pytorch.org/) : Deep learning Framework.
+  - [PyTorch](https://pytorch.org/) : Deep learning Framework.
+  - [Docusaurus](https://docusaurus.io/) : Docusaurus makes it easy to maintain  Open Sourcedocumentation websites
 
 
 ## Airbnb [↗](https://airbnb.com)
