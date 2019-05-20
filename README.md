@@ -62,6 +62,7 @@ This repo contain awsome open source stack by companies and foundation
  - [Tensor Flow](https://www.tensorflow.org/) : TensorFlow is an
    end-to-end open source platform for machine learning
   - [Kubernetes](https://kubernetes.io/) :  Automated container deployment, scaling, and management
+  - [Vitess](https://vitess.io/) : Vitess is a database clustering system for horizontal scaling of MySQL
    
 ## Netflix [↗](https://netflix.com)
 
