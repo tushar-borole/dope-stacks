@@ -26,6 +26,7 @@ This repo contain awsome open source stack by companies and foundation
    organizations like Facebook.
   - [PyTorch](https://pytorch.org/) : Deep learning Framework.
   - [Docusaurus](https://docusaurus.io/) : Docusaurus makes it easy to maintain  Open Sourcedocumentation websites
+  - [react-native](https://facebook.github.io/react-native) : Build native mobile apps using JavaScript and React
 
 
 ## Airbnb [↗](https://airbnb.com)
