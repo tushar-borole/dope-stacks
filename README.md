@@ -64,6 +64,7 @@ This repo contain awsome open source stack by companies and foundation
    end-to-end open source platform for machine learning
   - [Kubernetes](https://kubernetes.io/) :  Automated container deployment, scaling, and management
   - [Vitess](https://vitess.io/) : Vitess is a database clustering system for horizontal scaling of MySQL
+  - [Flutter](https://flutter.dev/) : Flutter is an open-source mobile application development framework
    
 ## Netflix [↗](https://netflix.com)
 
