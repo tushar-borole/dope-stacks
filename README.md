@@ -14,7 +14,7 @@ This repo contain awsome open source stack by companies and foundation
    _in-memory speed_ and at _any scale_  
  - [Apache Druid](http://druid.io/) : Druid is an is a high performance
    real-time analytics database
-   [Mesos](http://mesos.apache.org/) : Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
+  - [Mesos](http://mesos.apache.org/) : Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 
 ## Facebook [↗](https://facebook.com)
 
@@ -65,6 +65,7 @@ This repo contain awsome open source stack by companies and foundation
   - [Kubernetes](https://kubernetes.io/) :  Automated container deployment, scaling, and management
   - [Vitess](https://vitess.io/) : Vitess is a database clustering system for horizontal scaling of MySQL
   - [Flutter](https://flutter.dev/) : Flutter is an open-source mobile application development framework
+  - [grpc](https://grpc.io/) : A high performance, open-source universal RPC framework
    
 ## Netflix [↗](https://netflix.com)
 
