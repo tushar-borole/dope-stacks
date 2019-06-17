@@ -40,7 +40,7 @@ This repo contain awsome open source stacks
   - [PyTorch](https://pytorch.org/) : Deep learning Framework.
   - [M3 db](https://m3db.io/) : ## The fully open source metrics platform
    built on M3DB, a distributed timeseries database
-    - [Tensor Flow](https://www.tensorflow.org/) : TensorFlow is an
+   - [Tensor Flow](https://www.tensorflow.org/) : TensorFlow is an
    end-to-end open source platform for machine learning
 
 ## All About Containers
