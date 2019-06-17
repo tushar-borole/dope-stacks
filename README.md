@@ -9,7 +9,7 @@ This repo contain awsome open source stacks
 
  - [React](https://reactjs.org/) : React makes it painless to create
    interactive UIs
-   - [Vuejs](https://vuejs.org/) : Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
+  - [Vuejs](https://vuejs.org/) : Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
   - [react-native](https://facebook.github.io/react-native) : Build native mobile apps using JavaScript and React
   - [Flutter](https://flutter.dev/) : Flutter is an open-source mobile application development framework
 
@@ -19,14 +19,14 @@ This repo contain awsome open source stacks
    from the ground up for interactive analytics and approaches the speed
    of commercial data warehouses while scaling to the size of
    organizations like Facebook.
-    - [Apache Druid](http://druid.io/) : Druid is an is a high performance
+  - [Apache Druid](http://druid.io/) : Druid is an is a high performance
    real-time analytics database
-    - [Pinot](https://pinot.apache.org/) : Pinot is a realtime distributed
+  - [Pinot](https://pinot.apache.org/) : Pinot is a realtime distributed
    OLAP datastore, which is used at LinkedIn to deliver scalable real
    time analytics with low latency.
  - [Kafka](https://kafka.apache.org/) : Kafka is  _a distributed
    streaming platform_
-    - [Prometheus](https://prometheus.io/) : It is used to record real-time
+  - [Prometheus](https://prometheus.io/) : It is used to record real-time
    metrics in a [time series
    database](https://en.wikipedia.org/wiki/Time_series_database "Time
    series database") (allowing for high dimensionality) built using a
@@ -47,9 +47,9 @@ This repo contain awsome open source stacks
  - [Peloton](https://eng.uber.com/peloton/) : a unified scheduler
    designed to manage resources across distinct workloads, combining our
    separate clusters into a unified one
-     - [Mesos](http://mesos.apache.org/) : Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-     - [Kubernetes](https://kubernetes.io/) :  Automated container deployment, scaling, and management
-     - [Conductor](https://netflix.github.io/conductor/) : Conductor is a microservices orchestration engine
+  - [Mesos](http://mesos.apache.org/) : Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
+  - [Kubernetes](https://kubernetes.io/) :  Automated container deployment, scaling, and management
+   - [Conductor](https://netflix.github.io/conductor/) : Conductor is a microservices orchestration engine
 
 ## Data Analytics
 
