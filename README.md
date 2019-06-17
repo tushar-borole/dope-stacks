@@ -57,6 +57,10 @@ This repo contain awsome open source stacks
    intuitive interface to explore and visualize datasets, and create
    interactive dashboards.
 
+## Networking
+
+  - [grpc](https://grpc.io/) : A high performance, open-source universal RPC framework
+
 ## Serverless
 
 - [Openwisk](https://openwhisk.apache.org/) : Apache OpenWhisk (Incubating) is an open source, distributed Serverless platform that executes functions (fx) in response to events at any scale.
@@ -74,8 +78,6 @@ This repo contain awsome open source stacks
 
 
 ## Miscellaneous
-
-  - [grpc](https://grpc.io/) : A high performance, open-source universal RPC framework
    - [Airpal](https://airbnb.io/airpal/) : a web-based query execution
    tool built on top of Facebook's  [PrestoDB](https://prestodb.io/).
  - [Airflow](https://airflow.apache.org/) : Airflow is a platform to
