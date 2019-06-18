@@ -12,6 +12,7 @@ This repo contain awsome open source stacks
   - [Vuejs](https://vuejs.org/) : Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
   - [react-native](https://facebook.github.io/react-native) : Build native mobile apps using JavaScript and React
   - [Flutter](https://flutter.dev/) : Flutter is an open-source mobile application development framework
+  - [svelte](https://svelte.dev/) : Instead of using techniques like virtual DOM diffing, Svelte writes code that surgically updates the DOM when the state of your app changes.
 
 ## Database
 
