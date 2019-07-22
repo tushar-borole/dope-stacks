@@ -65,6 +65,7 @@ This repo contain awsome open source stacks
 ## Serverless
 
 - [Openwisk](https://openwhisk.apache.org/) : Apache OpenWhisk (Incubating) is an open source, distributed Serverless platform that executes functions (fx) in response to events at any scale.
+- [Serverless Framework](https://serverless.com/) : The Serverless Framework consists of an open source **[CLI](https://serverless.com/framework/docs/providers/)** that makes it easy to develop, deploy and test serverless apps across different cloud providers.
 
 
 ## Testing
