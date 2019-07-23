@@ -76,8 +76,7 @@ This repo contain awsome open source stacks
 ## Documentation
 
   - [Docusaurus](https://docusaurus.io/) : Docusaurus makes it easy to maintain  Open Sourcedocumentation websites
-
-
+  - 
 
 ## Miscellaneous
    - [Airpal](https://airbnb.io/airpal/) : a web-based query execution
@@ -89,7 +88,8 @@ This repo contain awsome open source stacks
    streaming data processing jobs that run on any execution engine.
  - [Apache Flink](https://flink.apache.org/) : Flink has been designed
    to run in _all common cluster environments_, perform computations at
-   _in-memory speed_ and at _any scale_ 
+   in-memory speed_ and at _any scale_ 
+  - [bazel.build](https://bazel.build/) : Build and test software of any size, quickly and reliably
 
 
 
