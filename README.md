@@ -76,7 +76,6 @@ This repo contain awsome open source stacks
 ## Documentation
 
   - [Docusaurus](https://docusaurus.io/) : Docusaurus makes it easy to maintain  Open Sourcedocumentation websites
-  - 
 
 ## Miscellaneous
    - [Airpal](https://airbnb.io/airpal/) : a web-based query execution
