@@ -73,6 +73,9 @@ This repo contain awsome open source stacks
    utility for React that makes it easier to test your React Components'
    output.
 
+## Big Data
+- [Parquet](https://parquet.apache.org/) : Apache Parquet is a [columnar storage](http://en.wikipedia.org/wiki/Column-oriented_DBMS) format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
+
 ## Documentation
 
   - [Docusaurus](https://docusaurus.io/) : Docusaurus makes it easy to maintain  Open Sourcedocumentation websites
