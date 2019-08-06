@@ -93,6 +93,7 @@ This repo contain awsome open source stacks
    to run in _all common cluster environments_, perform computations at
    in-memory speed_ and at _any scale_ 
   - [bazel.build](https://bazel.build/) : Build and test software of any size, quickly and reliably
+  - [jaegertracing](https://www.jaegertracing.io/) : open source, end-to-end distributed tracing
 
 
 
