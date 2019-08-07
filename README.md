@@ -81,6 +81,9 @@ This repo contain awsome open source stacks
 
   - [Docusaurus](https://docusaurus.io/) : Docusaurus makes it easy to maintain  Open Sourcedocumentation websites
 
+## Performance 
+- [node-clinic-doctor](https://github.com/nearform/node-clinic-doctor) : Performance monitoring for node
+
 ## Miscellaneous
    - [Airpal](https://airbnb.io/airpal/) : a web-based query execution
    tool built on top of Facebook's  [PrestoDB](https://prestodb.io/).
