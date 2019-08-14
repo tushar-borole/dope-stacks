@@ -27,8 +27,6 @@ This repo contain awsome open source stacks
   - [Pinot](https://pinot.apache.org/) : Pinot is a realtime distributed
    OLAP datastore, which is used at LinkedIn to deliver scalable real
    time analytics with low latency.
- - [Kafka](https://kafka.apache.org/) : Kafka is  _a distributed
-   streaming platform_
   - [Prometheus](https://prometheus.io/) : It is used to record real-time
    metrics in a [time series
    database](https://en.wikipedia.org/wiki/Time_series_database "Time
@@ -85,6 +83,11 @@ This repo contain awsome open source stacks
 ## Performance 
 - [node-clinic-doctor](https://github.com/nearform/node-clinic-doctor) : Performance monitoring for node
 
+## Messaging
+- [Pulsar](https://pulsar.apache.org/) : pache Pulsar is an open-source distributed pub-sub messaging system originally created at Yahoo and now part of the Apache Software Foundation
+ - [Kafka](https://kafka.apache.org/) : Kafka is  _a distributed
+   streaming platform_
+
 ## Miscellaneous
    - [Airpal](https://airbnb.io/airpal/) : a web-based query execution
    tool built on top of Facebook's  [PrestoDB](https://prestodb.io/).
@@ -98,6 +101,7 @@ This repo contain awsome open source stacks
    in-memory speed_ and at _any scale_ 
   - [bazel.build](https://bazel.build/) : Build and test software of any size, quickly and reliably
   - [jaegertracing](https://www.jaegertracing.io/) : open source, end-to-end distributed tracing
+ 
 
 
 
