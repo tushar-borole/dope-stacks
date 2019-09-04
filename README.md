@@ -73,6 +73,10 @@ This repo contain awsome open source stacks
    utility for React that makes it easier to test your React Components'
    output.
 
+## Distributed System
+
+- [zookeeper](https://zookeeper.apache.org/) : ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+
 ## Big Data
 - [Parquet](https://parquet.apache.org/) : Apache Parquet is a [columnar storage](http://en.wikipedia.org/wiki/Column-oriented_DBMS) format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 
