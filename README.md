@@ -32,6 +32,7 @@ This repo contain awsome open source stacks
    database](https://en.wikipedia.org/wiki/Time_series_database "Time
    series database") (allowing for high dimensionality) built using a
    HTTP pull model, with flexible queries and real-time alerting.
+   - [influxdb](https://www.influxdata.com/) : InfluxDB is the open source time series database
    
 ## CI/CD
  - [Spinnaker](https://www.spinnaker.io/) : Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
