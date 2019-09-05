@@ -73,7 +73,7 @@ This repo contain awsome open source stacks
  - [Enzyme](https://airbnb.io/enzyme/) : Enzyme is a JavaScript Testing
    utility for React that makes it easier to test your React Components'
    output.
-   - [taiko](https://taiko.gauge.org/) : [Taiko](https://github.com/getgauge/taiko) is a free and open source browser automation tool built by the team behind [Gauge by ThoughtWorks](https://gauge.org/).
+  - [taiko](https://taiko.gauge.org/) : [Taiko](https://github.com/getgauge/taiko) is a free and open source browser automation tool built by the team behind [Gauge by ThoughtWorks](https://gauge.org/).
 
 ## Distributed System
 
