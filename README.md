@@ -78,6 +78,8 @@ This repo contain awsome open source stacks
 ## Distributed System
 
 - [zookeeper](https://zookeeper.apache.org/) : ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+- [cadenceworkflow](https://cadenceworkflow.io/) : Cadence fault-oblivious stateful code platform preserves complete multithreaded application state including thread stacks with local variables across hardware and software failures
+
 
 ## Big Data
 - [Parquet](https://parquet.apache.org/) : Apache Parquet is a [columnar storage](http://en.wikipedia.org/wiki/Column-oriented_DBMS) format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
