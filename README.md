@@ -7,7 +7,7 @@
   <img width="500" src="https://raw.githubusercontent.com/tushariscoolster/dope-stacks/master/logo.png">
 </p>
 <h1 id="dope-stacks">dope-stacks</h1>
-<p>This repo contain awsome open source stacks</p>
+<p>This repo contain awsome open source stackss</p>
 <h2 id="frontend">Frontend</h2>
 <ul>
 <li><a href="https://reactjs.org/">React</a> : React makes it painless to create<br>
